@@ -1,0 +1,17 @@
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\bin\Debug\net8.0\RabbitMq.EmitLog.exe
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\bin\Debug\net8.0\RabbitMq.EmitLog.deps.json
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\bin\Debug\net8.0\RabbitMq.EmitLog.runtimeconfig.json
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\bin\Debug\net8.0\RabbitMq.EmitLog.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\bin\Debug\net8.0\RabbitMq.EmitLog.pdb
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.csproj.AssemblyReference.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.AssemblyInfoInputs.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.AssemblyInfo.cs
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.F65F06D4.Up2Date
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\refint\RabbitMq.EmitLog.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.pdb
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\RabbitMq.EmitLog.genruntimeconfig.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.EmitLog\obj\Debug\net8.0\ref\RabbitMq.EmitLog.dll

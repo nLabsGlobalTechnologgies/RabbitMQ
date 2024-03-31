@@ -1,0 +1,17 @@
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\bin\Debug\net8.0\RabbitMq.Send.exe
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\bin\Debug\net8.0\RabbitMq.Send.deps.json
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\bin\Debug\net8.0\RabbitMq.Send.runtimeconfig.json
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\bin\Debug\net8.0\RabbitMq.Send.dll
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\bin\Debug\net8.0\RabbitMq.Send.pdb
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.csproj.AssemblyReference.cache
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.AssemblyInfoInputs.cache
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.AssemblyInfo.cs
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.831B8982.Up2Date
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.dll
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\refint\RabbitMq.Send.dll
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.pdb
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\RabbitMq.Send.genruntimeconfig.cache
+D:\Projects\Test\RabbitMq\1-Helloworld\RabbitMq.Send\obj\Debug\net8.0\ref\RabbitMq.Send.dll

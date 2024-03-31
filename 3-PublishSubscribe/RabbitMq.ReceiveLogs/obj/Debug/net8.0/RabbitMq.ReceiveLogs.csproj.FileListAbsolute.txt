@@ -1,0 +1,17 @@
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.AssemblyInfoInputs.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.AssemblyInfo.cs
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\bin\Debug\net8.0\RabbitMq.ReceiveLogs.exe
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\bin\Debug\net8.0\RabbitMq.ReceiveLogs.deps.json
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\bin\Debug\net8.0\RabbitMq.ReceiveLogs.runtimeconfig.json
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\bin\Debug\net8.0\RabbitMq.ReceiveLogs.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\bin\Debug\net8.0\RabbitMq.ReceiveLogs.pdb
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.csproj.AssemblyReference.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.A471F5AD.Up2Date
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\refint\RabbitMq.ReceiveLogs.dll
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.pdb
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\RabbitMq.ReceiveLogs.genruntimeconfig.cache
+D:\Projects\Test\RabbitMq\3-PublishSubscribe\RabbitMq.ReceiveLogs\obj\Debug\net8.0\ref\RabbitMq.ReceiveLogs.dll

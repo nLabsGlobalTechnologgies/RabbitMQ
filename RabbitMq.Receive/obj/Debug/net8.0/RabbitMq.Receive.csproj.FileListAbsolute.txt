@@ -1,0 +1,17 @@
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\bin\Debug\net8.0\RabbitMq.Receive.exe
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\bin\Debug\net8.0\RabbitMq.Receive.deps.json
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\bin\Debug\net8.0\RabbitMq.Receive.runtimeconfig.json
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\bin\Debug\net8.0\RabbitMq.Receive.dll
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\bin\Debug\net8.0\RabbitMq.Receive.pdb
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.csproj.AssemblyReference.cache
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.AssemblyInfoInputs.cache
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.AssemblyInfo.cs
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.2F0166C2.Up2Date
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.dll
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\refint\RabbitMq.Receive.dll
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.pdb
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\RabbitMq.Receive.genruntimeconfig.cache
+D:\Projects\Test\RabbitMq\RabbitMq.Receive\obj\Debug\net8.0\ref\RabbitMq.Receive.dll

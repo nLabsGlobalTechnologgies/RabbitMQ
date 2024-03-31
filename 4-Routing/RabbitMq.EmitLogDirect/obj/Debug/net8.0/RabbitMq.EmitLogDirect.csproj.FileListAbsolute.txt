@@ -1,0 +1,17 @@
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\bin\Debug\net8.0\RabbitMq.EmitLogDirect.exe
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\bin\Debug\net8.0\RabbitMq.EmitLogDirect.deps.json
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\bin\Debug\net8.0\RabbitMq.EmitLogDirect.runtimeconfig.json
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\bin\Debug\net8.0\RabbitMq.EmitLogDirect.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\bin\Debug\net8.0\RabbitMq.EmitLogDirect.pdb
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.csproj.AssemblyReference.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.AssemblyInfoInputs.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.AssemblyInfo.cs
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.AA72614C.Up2Date
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\refint\RabbitMq.EmitLogDirect.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.pdb
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\RabbitMq.EmitLogDirect.genruntimeconfig.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.EmitLogDirect\obj\Debug\net8.0\ref\RabbitMq.EmitLogDirect.dll

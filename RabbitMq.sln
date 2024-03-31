@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-HelloWorld", "1-HelloWorld", "{DE544681-C679-4C83-9544-5E5268F09148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.Send", "1-Helloworld\RabbitMq.Send\RabbitMq.Send.csproj", "{068B3E48-F97A-4AFE-928A-8654065C2637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.Receive", "RabbitMq.Receive\RabbitMq.Receive.csproj", "{15F05078-72EF-4D28-A122-3A0D68263AEA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-WorkQueQues", "2-WorkQueQues", "{F89A20EA-B381-43B6-A6BC-E8398919A896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.NewTask", "2-WorkQueQues\RabbitMq.NewTask\RabbitMq.NewTask.csproj", "{F31E0C49-44F3-454B-86D4-3488324BA901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.Worker", "2-WorkQueQues\RabbitMq.Worker\RabbitMq.Worker.csproj", "{A082DCBA-2A68-4F7F-8EC8-65803D5C9881}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-PublishSubscribe", "3-PublishSubscribe", "{E364E282-EA26-4233-BC85-33A7FA165836}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.EmitLog", "3-PublishSubscribe\RabbitMq.EmitLog\RabbitMq.EmitLog.csproj", "{363F1B69-D5EB-4F53-8F43-AAC8E6C90FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.ReceiveLogs", "3-PublishSubscribe\RabbitMq.ReceiveLogs\RabbitMq.ReceiveLogs.csproj", "{1EAFC06A-7E0B-49CE-A135-F5229B2CEA63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Routing", "4-Routing", "{4AFB4B5E-5482-46B9-AFB6-9A1F38B3C68F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.EmitLogDirect", "4-Routing\RabbitMq.EmitLogDirect\RabbitMq.EmitLogDirect.csproj", "{C85B52F6-0AD3-4B46-B605-D79D74E3454D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMq.ReceiveLogsDirect", "4-Routing\RabbitMq.ReceiveLogsDirect\RabbitMq.ReceiveLogsDirect.csproj", "{2BE2B245-A376-46E0-AC35-71A980030911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{068B3E48-F97A-4AFE-928A-8654065C2637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{068B3E48-F97A-4AFE-928A-8654065C2637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{068B3E48-F97A-4AFE-928A-8654065C2637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{068B3E48-F97A-4AFE-928A-8654065C2637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F05078-72EF-4D28-A122-3A0D68263AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F05078-72EF-4D28-A122-3A0D68263AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F05078-72EF-4D28-A122-3A0D68263AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F05078-72EF-4D28-A122-3A0D68263AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31E0C49-44F3-454B-86D4-3488324BA901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31E0C49-44F3-454B-86D4-3488324BA901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31E0C49-44F3-454B-86D4-3488324BA901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31E0C49-44F3-454B-86D4-3488324BA901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A082DCBA-2A68-4F7F-8EC8-65803D5C9881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A082DCBA-2A68-4F7F-8EC8-65803D5C9881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A082DCBA-2A68-4F7F-8EC8-65803D5C9881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A082DCBA-2A68-4F7F-8EC8-65803D5C9881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363F1B69-D5EB-4F53-8F43-AAC8E6C90FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363F1B69-D5EB-4F53-8F43-AAC8E6C90FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363F1B69-D5EB-4F53-8F43-AAC8E6C90FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363F1B69-D5EB-4F53-8F43-AAC8E6C90FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EAFC06A-7E0B-49CE-A135-F5229B2CEA63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EAFC06A-7E0B-49CE-A135-F5229B2CEA63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EAFC06A-7E0B-49CE-A135-F5229B2CEA63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EAFC06A-7E0B-49CE-A135-F5229B2CEA63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85B52F6-0AD3-4B46-B605-D79D74E3454D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85B52F6-0AD3-4B46-B605-D79D74E3454D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85B52F6-0AD3-4B46-B605-D79D74E3454D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85B52F6-0AD3-4B46-B605-D79D74E3454D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE2B245-A376-46E0-AC35-71A980030911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE2B245-A376-46E0-AC35-71A980030911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE2B245-A376-46E0-AC35-71A980030911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE2B245-A376-46E0-AC35-71A980030911}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{068B3E48-F97A-4AFE-928A-8654065C2637} = {DE544681-C679-4C83-9544-5E5268F09148}
+		{15F05078-72EF-4D28-A122-3A0D68263AEA} = {DE544681-C679-4C83-9544-5E5268F09148}
+		{F31E0C49-44F3-454B-86D4-3488324BA901} = {F89A20EA-B381-43B6-A6BC-E8398919A896}
+		{A082DCBA-2A68-4F7F-8EC8-65803D5C9881} = {F89A20EA-B381-43B6-A6BC-E8398919A896}
+		{363F1B69-D5EB-4F53-8F43-AAC8E6C90FA7} = {E364E282-EA26-4233-BC85-33A7FA165836}
+		{1EAFC06A-7E0B-49CE-A135-F5229B2CEA63} = {E364E282-EA26-4233-BC85-33A7FA165836}
+		{C85B52F6-0AD3-4B46-B605-D79D74E3454D} = {4AFB4B5E-5482-46B9-AFB6-9A1F38B3C68F}
+		{2BE2B245-A376-46E0-AC35-71A980030911} = {4AFB4B5E-5482-46B9-AFB6-9A1F38B3C68F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA93E8F1-9EFA-480F-A8D1-20B07F3077E8}
+	EndGlobalSection
+EndGlobal

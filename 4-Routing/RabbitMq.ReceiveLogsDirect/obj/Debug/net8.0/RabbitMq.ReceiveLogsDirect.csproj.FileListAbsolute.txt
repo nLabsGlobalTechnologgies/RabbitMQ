@@ -1,0 +1,17 @@
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\bin\Debug\net8.0\RabbitMq.ReceiveLogsDirect.exe
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\bin\Debug\net8.0\RabbitMq.ReceiveLogsDirect.deps.json
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\bin\Debug\net8.0\RabbitMq.ReceiveLogsDirect.runtimeconfig.json
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\bin\Debug\net8.0\RabbitMq.ReceiveLogsDirect.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\bin\Debug\net8.0\RabbitMq.ReceiveLogsDirect.pdb
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.csproj.AssemblyReference.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.AssemblyInfoInputs.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.AssemblyInfo.cs
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.csproj.CoreCompileInputs.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.43F5342F.Up2Date
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\refint\RabbitMq.ReceiveLogsDirect.dll
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.pdb
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\RabbitMq.ReceiveLogsDirect.genruntimeconfig.cache
+D:\Projects\Test\RabbitMq\4-Routing\RabbitMq.ReceiveLogsDirect\obj\Debug\net8.0\ref\RabbitMq.ReceiveLogsDirect.dll

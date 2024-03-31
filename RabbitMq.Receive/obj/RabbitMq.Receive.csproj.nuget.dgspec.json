@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\RabbitMq\\RabbitMq.Receive\\RabbitMq.Receive.csproj": {}
+    "D:\\Projects\\Test\\RabbitMQ\\RabbitMq.Receive\\RabbitMq.Receive.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\RabbitMq\\RabbitMq.Receive\\RabbitMq.Receive.csproj": {
+    "D:\\Projects\\Test\\RabbitMQ\\RabbitMq.Receive\\RabbitMq.Receive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\RabbitMq\\RabbitMq.Receive\\RabbitMq.Receive.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\RabbitMQ\\RabbitMq.Receive\\RabbitMq.Receive.csproj",
         "projectName": "RabbitMq.Receive",
-        "projectPath": "D:\\Projects\\Test\\RabbitMq\\RabbitMq.Receive\\RabbitMq.Receive.csproj",
+        "projectPath": "D:\\Projects\\Test\\RabbitMQ\\RabbitMq.Receive\\RabbitMq.Receive.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\RabbitMq\\RabbitMq.Receive\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\RabbitMQ\\RabbitMq.Receive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

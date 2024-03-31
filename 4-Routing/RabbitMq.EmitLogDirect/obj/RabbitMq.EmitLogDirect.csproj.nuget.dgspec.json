@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\RabbitMq\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj": {}
+    "D:\\Projects\\Test\\RabbitMQ\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\RabbitMq\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj": {
+    "D:\\Projects\\Test\\RabbitMQ\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\RabbitMq\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\RabbitMQ\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj",
         "projectName": "RabbitMq.EmitLogDirect",
-        "projectPath": "D:\\Projects\\Test\\RabbitMq\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj",
+        "projectPath": "D:\\Projects\\Test\\RabbitMQ\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\RabbitMq\\4-Routing\\RabbitMq.EmitLogDirect\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\RabbitMQ\\4-Routing\\RabbitMq.EmitLogDirect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

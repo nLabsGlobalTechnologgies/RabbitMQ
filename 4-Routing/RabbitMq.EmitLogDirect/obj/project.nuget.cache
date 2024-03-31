@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/oBzHIN/WMj3hm2rVchbG33Erq0NxcuzeuS+ew4TIR8XDWguMAq9OQkh/tEyZhtBrO2dZfgn8WY3PCz8jUvl8w==",
+  "dgSpecHash": "QcaGGnZ4J3xPC2jmnl6MS+mSUZ4s+96bzV6rzY7fc/PqXHv1zLMh/0r0aEDC7XqOtibcQqnZg7RJjhC4aUwymQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\RabbitMq\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\RabbitMQ\\4-Routing\\RabbitMq.EmitLogDirect\\RabbitMq.EmitLogDirect.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\root\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

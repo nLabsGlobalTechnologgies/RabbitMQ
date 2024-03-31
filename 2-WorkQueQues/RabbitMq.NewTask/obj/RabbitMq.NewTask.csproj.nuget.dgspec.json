@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj": {}
+    "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj": {
+    "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj",
         "projectName": "RabbitMq.NewTask",
-        "projectPath": "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj",
+        "projectPath": "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.NewTask\\RabbitMq.NewTask.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.NewTask\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.NewTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\RabbitMq\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj": {}
+    "D:\\Projects\\Test\\RabbitMQ\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\RabbitMq\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj": {
+    "D:\\Projects\\Test\\RabbitMQ\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\RabbitMq\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\RabbitMQ\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj",
         "projectName": "RabbitMq.ReceiveLogs",
-        "projectPath": "D:\\Projects\\Test\\RabbitMq\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj",
+        "projectPath": "D:\\Projects\\Test\\RabbitMQ\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\RabbitMq.ReceiveLogs.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\RabbitMq\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\RabbitMQ\\3-PublishSubscribe\\RabbitMq.ReceiveLogs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

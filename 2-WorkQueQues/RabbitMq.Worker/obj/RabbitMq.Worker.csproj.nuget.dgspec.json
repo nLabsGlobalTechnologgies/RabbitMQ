@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj": {}
+    "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj": {
+    "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj",
         "projectName": "RabbitMq.Worker",
-        "projectPath": "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj",
+        "projectPath": "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.Worker\\RabbitMq.Worker.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\RabbitMq\\2-WorkQueQues\\RabbitMq.Worker\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\RabbitMQ\\2-WorkQueQues\\RabbitMq.Worker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

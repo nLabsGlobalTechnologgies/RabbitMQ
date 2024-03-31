@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\RabbitMq\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj": {}
+    "D:\\Projects\\Test\\RabbitMQ\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\RabbitMq\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj": {
+    "D:\\Projects\\Test\\RabbitMQ\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\RabbitMq\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\RabbitMQ\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj",
         "projectName": "RabbitMq.Send",
-        "projectPath": "D:\\Projects\\Test\\RabbitMq\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj",
+        "projectPath": "D:\\Projects\\Test\\RabbitMQ\\1-Helloworld\\RabbitMq.Send\\RabbitMq.Send.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\RabbitMq\\1-Helloworld\\RabbitMq.Send\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\RabbitMQ\\1-Helloworld\\RabbitMq.Send\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
